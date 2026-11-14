@@ -1,0 +1,6 @@
+{
+  "name": "통계로 세상 읽기 · 공공데이터 AI 분석 스튜디오",
+  "description": "고등학교 확률과 통계(이항분포·정규분포·표본추출) 성취기준과 H-A-H(인간-AI-인간) 탐구 원리를 바탕으로 공공데이터를 분석·시각화하고 생활 개선 보고서를 작성하는 교육용 웹 애플리케이션",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
